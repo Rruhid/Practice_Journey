@@ -1,0 +1,301 @@
+Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description
+TCL,Crops and livestock products,51,Armenia,5610,Import Quantity,115,Barley,2020,2020,tonnes,24785,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5622,Import Value,115,Barley,2020,2020,1000 US$,3604,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5608,Import Quantity,2111,Cattle,2020,2020,Head,611,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5610,Import Quantity,2111,Cattle,2020,2020,tonnes,232,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5622,Import Value,2111,Cattle,2020,2020,1000 US$,1111,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5908,Export Quantity,2111,Cattle,2020,2020,Head,4586,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5910,Export Quantity,2111,Cattle,2020,2020,tonnes,1737,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5922,Export Value,2111,Cattle,2020,2020,1000 US$,4743,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5609,Import Quantity,2151,Chickens,2020,2020,1000 Head,291,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5610,Import Quantity,2151,Chickens,2020,2020,tonnes,336,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5622,Import Value,2151,Chickens,2020,2020,1000 US$,2832,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5608,Import Quantity,2123,Goats,2020,2020,Head,22,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5610,Import Quantity,2123,Goats,2020,2020,tonnes,1,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5622,Import Value,2123,Goats,2020,2020,1000 US$,15,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5610,Import Quantity,117,Oats,2020,2020,tonnes,54,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5622,Import Value,117,Oats,2020,2020,1000 US$,8,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5910,Export Quantity,117,Oats,2020,2020,tonnes,0,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5922,Export Value,117,Oats,2020,2020,1000 US$,0,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5610,Import Quantity,113,Rice,2020,2020,tonnes,45,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5622,Import Value,113,Rice,2020,2020,1000 US$,10,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5608,Import Quantity,2122,Sheep,2020,2020,Head,3871,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5610,Import Quantity,2122,Sheep,2020,2020,tonnes,137,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5622,Import Value,2122,Sheep,2020,2020,1000 US$,820,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5908,Export Quantity,2122,Sheep,2020,2020,Head,123786,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5910,Export Quantity,2122,Sheep,2020,2020,tonnes,4389,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5922,Export Value,2122,Sheep,2020,2020,1000 US$,10950,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5608,Import Quantity,2140,Swine / pigs,2020,2020,Head,121,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5610,Import Quantity,2140,Swine / pigs,2020,2020,tonnes,8,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5622,Import Value,2140,Swine / pigs,2020,2020,1000 US$,61,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5610,Import Quantity,111,Wheat,2020,2020,tonnes,349761,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5622,Import Value,111,Wheat,2020,2020,1000 US$,72254,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5910,Export Quantity,111,Wheat,2020,2020,tonnes,64,A,Official figure
+TCL,Crops and livestock products,51,Armenia,5922,Export Value,111,Wheat,2020,2020,1000 US$,34,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5610,Import Quantity,115,Barley,2020,2020,tonnes,56284,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5622,Import Value,115,Barley,2020,2020,1000 US$,10343,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5608,Import Quantity,2111,Cattle,2020,2020,Head,46848,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5610,Import Quantity,2111,Cattle,2020,2020,tonnes,17740,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5622,Import Value,2111,Cattle,2020,2020,1000 US$,46971,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5609,Import Quantity,2151,Chickens,2020,2020,1000 Head,381,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5610,Import Quantity,2151,Chickens,2020,2020,tonnes,410,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5622,Import Value,2151,Chickens,2020,2020,1000 US$,5575,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5608,Import Quantity,2123,Goats,2020,2020,Head,1207,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5610,Import Quantity,2123,Goats,2020,2020,tonnes,35,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5622,Import Value,2123,Goats,2020,2020,1000 US$,470,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5908,Export Quantity,2123,Goats,2020,2020,Head,5,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5910,Export Quantity,2123,Goats,2020,2020,tonnes,0,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5922,Export Value,2123,Goats,2020,2020,1000 US$,1,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5610,Import Quantity,117,Oats,2020,2020,tonnes,110,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5622,Import Value,117,Oats,2020,2020,1000 US$,21,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5610,Import Quantity,113,Rice,2020,2020,tonnes,280,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5622,Import Value,113,Rice,2020,2020,1000 US$,259,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5910,Export Quantity,113,Rice,2020,2020,tonnes,29,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5922,Export Value,113,Rice,2020,2020,1000 US$,35,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5608,Import Quantity,2122,Sheep,2020,2020,Head,168425,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5610,Import Quantity,2122,Sheep,2020,2020,tonnes,5971,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5622,Import Value,2122,Sheep,2020,2020,1000 US$,14724,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5610,Import Quantity,111,Wheat,2020,2020,tonnes,1365100,A,Official figure
+TCL,Crops and livestock products,31,Azerbaijan,5622,Import Value,111,Wheat,2020,2020,1000 US$,296905,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5610,Import Quantity,115,Barley,2020,2020,tonnes,18909,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5622,Import Value,115,Barley,2020,2020,1000 US$,2808,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5910,Export Quantity,115,Barley,2020,2020,tonnes,243,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5922,Export Value,115,Barley,2020,2020,1000 US$,55,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5608,Import Quantity,2111,Cattle,2020,2020,Head,1954,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5610,Import Quantity,2111,Cattle,2020,2020,tonnes,740,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5622,Import Value,2111,Cattle,2020,2020,1000 US$,2825,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5908,Export Quantity,2111,Cattle,2020,2020,Head,31966,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5910,Export Quantity,2111,Cattle,2020,2020,tonnes,12105,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5922,Export Value,2111,Cattle,2020,2020,1000 US$,27800,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5609,Import Quantity,2151,Chickens,2020,2020,1000 Head,588,I,Imputed value
+TCL,Crops and livestock products,268,Georgia,5610,Import Quantity,2151,Chickens,2020,2020,tonnes,269,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5622,Import Value,2151,Chickens,2020,2020,1000 US$,4151,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5909,Export Quantity,2151,Chickens,2020,2020,1000 Head,315,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5910,Export Quantity,2151,Chickens,2020,2020,tonnes,256,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5922,Export Value,2151,Chickens,2020,2020,1000 US$,2308,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5610,Import Quantity,117,Oats,2020,2020,tonnes,1525,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5622,Import Value,117,Oats,2020,2020,1000 US$,203,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5610,Import Quantity,113,Rice,2020,2020,tonnes,1004,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5622,Import Value,113,Rice,2020,2020,1000 US$,473,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5910,Export Quantity,113,Rice,2020,2020,tonnes,0,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5922,Export Value,113,Rice,2020,2020,1000 US$,0,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5608,Import Quantity,2122,Sheep,2020,2020,Head,6258,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5610,Import Quantity,2122,Sheep,2020,2020,tonnes,221,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5622,Import Value,2122,Sheep,2020,2020,1000 US$,214,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5908,Export Quantity,2122,Sheep,2020,2020,Head,195052,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5910,Export Quantity,2122,Sheep,2020,2020,tonnes,6889,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5922,Export Value,2122,Sheep,2020,2020,1000 US$,20547,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5608,Import Quantity,2140,Swine / pigs,2020,2020,Head,98234,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5610,Import Quantity,2140,Swine / pigs,2020,2020,tonnes,5853,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5622,Import Value,2140,Swine / pigs,2020,2020,1000 US$,8988,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5610,Import Quantity,111,Wheat,2020,2020,tonnes,490945,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5622,Import Value,111,Wheat,2020,2020,1000 US$,107922,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5910,Export Quantity,111,Wheat,2020,2020,tonnes,24,A,Official figure
+TCL,Crops and livestock products,268,Georgia,5922,Export Value,111,Wheat,2020,2020,1000 US$,13,A,Official figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5610,Import Quantity,115,Barley,2020,2020,tonnes,816233,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5622,Import Value,115,Barley,2020,2020,1000 US$,171772,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5608,Import Quantity,2111,Cattle,2020,2020,Head,3879,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5610,Import Quantity,2111,Cattle,2020,2020,tonnes,1977,A,Official figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5622,Import Value,2111,Cattle,2020,2020,1000 US$,10436,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5908,Export Quantity,2111,Cattle,2020,2020,Head,0,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5910,Export Quantity,2111,Cattle,2020,2020,tonnes,0,A,Official figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5922,Export Value,2111,Cattle,2020,2020,1000 US$,0,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5609,Import Quantity,2151,Chickens,2020,2020,1000 Head,506,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5610,Import Quantity,2151,Chickens,2020,2020,tonnes,27,A,Official figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5622,Import Value,2151,Chickens,2020,2020,1000 US$,6673,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5909,Export Quantity,2151,Chickens,2020,2020,1000 Head,47,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5910,Export Quantity,2151,Chickens,2020,2020,tonnes,55,A,Official figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5922,Export Value,2151,Chickens,2020,2020,1000 US$,239,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5608,Import Quantity,2123,Goats,2020,2020,Head,1987,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5610,Import Quantity,2123,Goats,2020,2020,tonnes,44,A,Official figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5622,Import Value,2123,Goats,2020,2020,1000 US$,730,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5908,Export Quantity,2123,Goats,2020,2020,Head,500000,E,Estimated value
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5910,Export Quantity,2123,Goats,2020,2020,tonnes,1781,A,Official figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5922,Export Value,2123,Goats,2020,2020,1000 US$,20000,E,Estimated value
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5910,Export Quantity,117,Oats,2020,2020,tonnes,2,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5922,Export Value,117,Oats,2020,2020,1000 US$,0,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5610,Import Quantity,113,Rice,2020,2020,tonnes,38,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5622,Import Value,113,Rice,2020,2020,1000 US$,30,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5910,Export Quantity,113,Rice,2020,2020,tonnes,2,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5922,Export Value,113,Rice,2020,2020,1000 US$,2,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5608,Import Quantity,2122,Sheep,2020,2020,Head,7072,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5610,Import Quantity,2122,Sheep,2020,2020,tonnes,354,A,Official figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5622,Import Value,2122,Sheep,2020,2020,1000 US$,3795,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5908,Export Quantity,2122,Sheep,2020,2020,Head,322541,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5910,Export Quantity,2122,Sheep,2020,2020,tonnes,11682,A,Official figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5922,Export Value,2122,Sheep,2020,2020,1000 US$,51439,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5610,Import Quantity,111,Wheat,2020,2020,tonnes,1181588,T,Unofficial figure
+TCL,Crops and livestock products,364,Iran (Islamic Republic of),5622,Import Value,111,Wheat,2020,2020,1000 US$,299287,T,Unofficial figure
+TCL,Crops and livestock products,398,Kazakhstan,5610,Import Quantity,115,Barley,2020,2020,tonnes,67001,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5622,Import Value,115,Barley,2020,2020,1000 US$,11371,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5910,Export Quantity,115,Barley,2020,2020,tonnes,980295,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5922,Export Value,115,Barley,2020,2020,1000 US$,176172,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5608,Import Quantity,2111,Cattle,2020,2020,Head,21187,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5610,Import Quantity,2111,Cattle,2020,2020,tonnes,8023,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5622,Import Value,2111,Cattle,2020,2020,1000 US$,37185,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5908,Export Quantity,2111,Cattle,2020,2020,Head,19052,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5910,Export Quantity,2111,Cattle,2020,2020,tonnes,7214,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5922,Export Value,2111,Cattle,2020,2020,1000 US$,11509,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5609,Import Quantity,2151,Chickens,2020,2020,1000 Head,398,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5610,Import Quantity,2151,Chickens,2020,2020,tonnes,492,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5622,Import Value,2151,Chickens,2020,2020,1000 US$,10953,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5909,Export Quantity,2151,Chickens,2020,2020,1000 Head,17,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5910,Export Quantity,2151,Chickens,2020,2020,tonnes,21,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5922,Export Value,2151,Chickens,2020,2020,1000 US$,371,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5608,Import Quantity,2123,Goats,2020,2020,Head,127,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5610,Import Quantity,2123,Goats,2020,2020,tonnes,4,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5622,Import Value,2123,Goats,2020,2020,1000 US$,2,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5610,Import Quantity,117,Oats,2020,2020,tonnes,813,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5622,Import Value,117,Oats,2020,2020,1000 US$,228,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5910,Export Quantity,117,Oats,2020,2020,tonnes,9382,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5922,Export Value,117,Oats,2020,2020,1000 US$,1549,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5610,Import Quantity,113,Rice,2020,2020,tonnes,311,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5622,Import Value,113,Rice,2020,2020,1000 US$,197,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5910,Export Quantity,113,Rice,2020,2020,tonnes,1702,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5922,Export Value,113,Rice,2020,2020,1000 US$,198,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5608,Import Quantity,2122,Sheep,2020,2020,Head,633,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5610,Import Quantity,2122,Sheep,2020,2020,tonnes,28,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5622,Import Value,2122,Sheep,2020,2020,1000 US$,21,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5908,Export Quantity,2122,Sheep,2020,2020,Head,19268,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5910,Export Quantity,2122,Sheep,2020,2020,tonnes,847,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5922,Export Value,2122,Sheep,2020,2020,1000 US$,2241,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5608,Import Quantity,2140,Swine / pigs,2020,2020,Head,1343,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5610,Import Quantity,2140,Swine / pigs,2020,2020,tonnes,86,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5622,Import Value,2140,Swine / pigs,2020,2020,1000 US$,393,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5610,Import Quantity,111,Wheat,2020,2020,tonnes,634154,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5622,Import Value,111,Wheat,2020,2020,1000 US$,86937,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5910,Export Quantity,111,Wheat,2020,2020,tonnes,5198943,A,Official figure
+TCL,Crops and livestock products,398,Kazakhstan,5922,Export Value,111,Wheat,2020,2020,1000 US$,1137140,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5610,Import Quantity,115,Barley,2020,2020,tonnes,49016,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5622,Import Value,115,Barley,2020,2020,1000 US$,7545,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5910,Export Quantity,115,Barley,2020,2020,tonnes,4963402,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5922,Export Value,115,Barley,2020,2020,1000 US$,898888,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5608,Import Quantity,2111,Cattle,2020,2020,Head,83225,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5610,Import Quantity,2111,Cattle,2020,2020,tonnes,29211,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5622,Import Value,2111,Cattle,2020,2020,1000 US$,133802,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5908,Export Quantity,2111,Cattle,2020,2020,Head,28883,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5910,Export Quantity,2111,Cattle,2020,2020,tonnes,10137,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5922,Export Value,2111,Cattle,2020,2020,1000 US$,22727,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5609,Import Quantity,2151,Chickens,2020,2020,1000 Head,3095,I,Imputed value
+TCL,Crops and livestock products,643,Russian Federation,5610,Import Quantity,2151,Chickens,2020,2020,tonnes,161,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5622,Import Value,2151,Chickens,2020,2020,1000 US$,15626,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5909,Export Quantity,2151,Chickens,2020,2020,1000 Head,11000,E,Estimated value
+TCL,Crops and livestock products,643,Russian Federation,5910,Export Quantity,2151,Chickens,2020,2020,tonnes,525,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5922,Export Value,2151,Chickens,2020,2020,1000 US$,12049,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5608,Import Quantity,2123,Goats,2020,2020,Head,2633,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5610,Import Quantity,2123,Goats,2020,2020,tonnes,95,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5622,Import Value,2123,Goats,2020,2020,1000 US$,2795,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5908,Export Quantity,2123,Goats,2020,2020,Head,817,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5910,Export Quantity,2123,Goats,2020,2020,tonnes,30,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5922,Export Value,2123,Goats,2020,2020,1000 US$,46,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5910,Export Quantity,1199.02,Mixed grain,2020,2020,tonnes,,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5922,Export Value,1199.02,Mixed grain,2020,2020,1000 US$,,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5610,Import Quantity,117,Oats,2020,2020,tonnes,2192,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5622,Import Value,117,Oats,2020,2020,1000 US$,388,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5910,Export Quantity,117,Oats,2020,2020,tonnes,76153,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5922,Export Value,117,Oats,2020,2020,1000 US$,14526,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5610,Import Quantity,113,Rice,2020,2020,tonnes,367,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5622,Import Value,113,Rice,2020,2020,1000 US$,431,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5910,Export Quantity,113,Rice,2020,2020,tonnes,61903,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5922,Export Value,113,Rice,2020,2020,1000 US$,22428,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5608,Import Quantity,2122,Sheep,2020,2020,Head,12380,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5610,Import Quantity,2122,Sheep,2020,2020,tonnes,411,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5622,Import Value,2122,Sheep,2020,2020,1000 US$,3570,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5908,Export Quantity,2122,Sheep,2020,2020,Head,182413,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5910,Export Quantity,2122,Sheep,2020,2020,tonnes,6055,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5922,Export Value,2122,Sheep,2020,2020,1000 US$,6353,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5608,Import Quantity,2140,Swine / pigs,2020,2020,Head,26755,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5610,Import Quantity,2140,Swine / pigs,2020,2020,tonnes,1862,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5622,Import Value,2140,Swine / pigs,2020,2020,1000 US$,30437,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5908,Export Quantity,2140,Swine / pigs,2020,2020,Head,81314,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5910,Export Quantity,2140,Swine / pigs,2020,2020,tonnes,5660,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5922,Export Value,2140,Swine / pigs,2020,2020,1000 US$,8701,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5610,Import Quantity,111,Wheat,2020,2020,tonnes,190042,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5622,Import Value,111,Wheat,2020,2020,1000 US$,64839,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5910,Export Quantity,111,Wheat,2020,2020,tonnes,37267014,A,Official figure
+TCL,Crops and livestock products,643,Russian Federation,5922,Export Value,111,Wheat,2020,2020,1000 US$,7918294,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5610,Import Quantity,115,Barley,2020,2020,tonnes,889319,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5622,Import Value,115,Barley,2020,2020,1000 US$,163400,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5910,Export Quantity,115,Barley,2020,2020,tonnes,14129,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5922,Export Value,115,Barley,2020,2020,1000 US$,2603,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5608,Import Quantity,2111,Cattle,2020,2020,Head,470426,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5610,Import Quantity,2111,Cattle,2020,2020,tonnes,118186,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5622,Import Value,2111,Cattle,2020,2020,1000 US$,410707,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5908,Export Quantity,2111,Cattle,2020,2020,Head,2884,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5910,Export Quantity,2111,Cattle,2020,2020,tonnes,725,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5922,Export Value,2111,Cattle,2020,2020,1000 US$,4522,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5609,Import Quantity,2151,Chickens,2020,2020,1000 Head,33,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5610,Import Quantity,2151,Chickens,2020,2020,tonnes,39,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5622,Import Value,2151,Chickens,2020,2020,1000 US$,7912,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5909,Export Quantity,2151,Chickens,2020,2020,1000 Head,28094,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5910,Export Quantity,2151,Chickens,2020,2020,tonnes,32954,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5922,Export Value,2151,Chickens,2020,2020,1000 US$,46086,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5608,Import Quantity,2123,Goats,2020,2020,Head,620,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5610,Import Quantity,2123,Goats,2020,2020,tonnes,16,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5622,Import Value,2123,Goats,2020,2020,1000 US$,35,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5908,Export Quantity,2123,Goats,2020,2020,Head,231,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5910,Export Quantity,2123,Goats,2020,2020,tonnes,6,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5922,Export Value,2123,Goats,2020,2020,1000 US$,36,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5610,Import Quantity,117,Oats,2020,2020,tonnes,7,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5622,Import Value,117,Oats,2020,2020,1000 US$,9,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5910,Export Quantity,117,Oats,2020,2020,tonnes,19,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5922,Export Value,117,Oats,2020,2020,1000 US$,16,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5610,Import Quantity,113,Rice,2020,2020,tonnes,179494,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5622,Import Value,113,Rice,2020,2020,1000 US$,78893,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5910,Export Quantity,113,Rice,2020,2020,tonnes,202,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5922,Export Value,113,Rice,2020,2020,1000 US$,160,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5608,Import Quantity,2122,Sheep,2020,2020,Head,122678,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5610,Import Quantity,2122,Sheep,2020,2020,tonnes,4346,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5622,Import Value,2122,Sheep,2020,2020,1000 US$,14003,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5908,Export Quantity,2122,Sheep,2020,2020,Head,235544,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5910,Export Quantity,2122,Sheep,2020,2020,tonnes,8345,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5922,Export Value,2122,Sheep,2020,2020,1000 US$,28892,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5610,Import Quantity,111,Wheat,2020,2020,tonnes,9659186,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5622,Import Value,111,Wheat,2020,2020,1000 US$,2334510,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5910,Export Quantity,111,Wheat,2020,2020,tonnes,124643,A,Official figure
+TCL,Crops and livestock products,792,T?rkiye,5922,Export Value,111,Wheat,2020,2020,1000 US$,39492,A,Official figure
+TCL,Crops and livestock products,795,Turkmenistan,5610,Import Quantity,115,Barley,2020,2020,tonnes,652,T,Unofficial figure
+TCL,Crops and livestock products,795,Turkmenistan,5622,Import Value,115,Barley,2020,2020,1000 US$,138,T,Unofficial figure
+TCL,Crops and livestock products,795,Turkmenistan,5608,Import Quantity,2111,Cattle,2020,2020,Head,651,T,Unofficial figure
+TCL,Crops and livestock products,795,Turkmenistan,5610,Import Quantity,2111,Cattle,2020,2020,tonnes,220,A,Official figure
+TCL,Crops and livestock products,795,Turkmenistan,5622,Import Value,2111,Cattle,2020,2020,1000 US$,951,T,Unofficial figure
+TCL,Crops and livestock products,795,Turkmenistan,5609,Import Quantity,2151,Chickens,2020,2020,1000 Head,452,T,Unofficial figure
+TCL,Crops and livestock products,795,Turkmenistan,5610,Import Quantity,2151,Chickens,2020,2020,tonnes,34,A,Official figure
+TCL,Crops and livestock products,795,Turkmenistan,5622,Import Value,2151,Chickens,2020,2020,1000 US$,846,T,Unofficial figure
+TCL,Crops and livestock products,795,Turkmenistan,5608,Import Quantity,2123,Goats,2020,2020,Head,747,T,Unofficial figure
+TCL,Crops and livestock products,795,Turkmenistan,5610,Import Quantity,2123,Goats,2020,2020,tonnes,27,A,Official figure
+TCL,Crops and livestock products,795,Turkmenistan,5622,Import Value,2123,Goats,2020,2020,1000 US$,52,T,Unofficial figure
+TCL,Crops and livestock products,795,Turkmenistan,5610,Import Quantity,117,Oats,2020,2020,tonnes,6,T,Unofficial figure
+TCL,Crops and livestock products,795,Turkmenistan,5622,Import Value,117,Oats,2020,2020,1000 US$,3,T,Unofficial figure
+TCL,Crops and livestock products,795,Turkmenistan,5610,Import Quantity,111,Wheat,2020,2020,tonnes,70278,T,Unofficial figure
+TCL,Crops and livestock products,795,Turkmenistan,5622,Import Value,111,Wheat,2020,2020,1000 US$,16906,T,Unofficial figure
+TCL,Crops and livestock products,795,Turkmenistan,5910,Export Quantity,111,Wheat,2020,2020,tonnes,37000,E,Estimated value
+TCL,Crops and livestock products,795,Turkmenistan,5922,Export Value,111,Wheat,2020,2020,1000 US$,10000,E,Estimated value
+TCL,Crops and livestock products,860,Uzbekistan,5610,Import Quantity,115,Barley,2020,2020,tonnes,72874,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5622,Import Value,115,Barley,2020,2020,1000 US$,14241,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5608,Import Quantity,2111,Cattle,2020,2020,Head,60330,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5610,Import Quantity,2111,Cattle,2020,2020,tonnes,0,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5622,Import Value,2111,Cattle,2020,2020,1000 US$,90936,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5609,Import Quantity,2151,Chickens,2020,2020,1000 Head,2182,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5610,Import Quantity,2151,Chickens,2020,2020,tonnes,0,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5622,Import Value,2151,Chickens,2020,2020,1000 US$,10456,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5909,Export Quantity,2151,Chickens,2020,2020,1000 Head,6602,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5910,Export Quantity,2151,Chickens,2020,2020,tonnes,0,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5922,Export Value,2151,Chickens,2020,2020,1000 US$,3883,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5608,Import Quantity,2123,Goats,2020,2020,Head,3683,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5610,Import Quantity,2123,Goats,2020,2020,tonnes,0,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5622,Import Value,2123,Goats,2020,2020,1000 US$,798,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5610,Import Quantity,117,Oats,2020,2020,tonnes,1740,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5622,Import Value,117,Oats,2020,2020,1000 US$,200,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5610,Import Quantity,113,Rice,2020,2020,tonnes,1726,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5622,Import Value,113,Rice,2020,2020,1000 US$,209,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5608,Import Quantity,2122,Sheep,2020,2020,Head,37121,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5610,Import Quantity,2122,Sheep,2020,2020,tonnes,0,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5622,Import Value,2122,Sheep,2020,2020,1000 US$,4967,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5908,Export Quantity,2140,Swine / pigs,2020,2020,Head,2,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5910,Export Quantity,2140,Swine / pigs,2020,2020,tonnes,0,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5922,Export Value,2140,Swine / pigs,2020,2020,1000 US$,0,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5610,Import Quantity,111,Wheat,2020,2020,tonnes,2799621,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5622,Import Value,111,Wheat,2020,2020,1000 US$,556494,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5910,Export Quantity,111,Wheat,2020,2020,tonnes,48212,A,Official figure
+TCL,Crops and livestock products,860,Uzbekistan,5922,Export Value,111,Wheat,2020,2020,1000 US$,10059,A,Official figure
